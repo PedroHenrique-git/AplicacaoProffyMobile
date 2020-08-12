@@ -8,13 +8,10 @@
     <ul>
       <li><a href="https://reactnative.dev/">🔗 React Native</a></li>
       <li><a href="https://www.typescriptlang.org/">🔗 TypeScript</a></li>
-      <li><a href="https://pt-br.reactjs.org/">🔗 ReactJs</a></li>
     </ul>
 </p>
 
 <p align="left">
     Clonar projeto: git clone https://github.com/PedroHenrique-git/AplicacaoProffyMobile.git
 </p>
- 
- ![VISUAL](proffy.PNG)
 
