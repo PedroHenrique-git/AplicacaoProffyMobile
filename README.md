@@ -1,7 +1,7 @@
 <h1>Proffy mobile version application</h1>
 
 <p>
-  Aplicação Proffy versão mobile desenvolvida durante a seamana next level week 2
+  Proffy mobile version application developed during the week next level week 2
 </p>
 
 ## Getting Started
