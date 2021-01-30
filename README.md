@@ -1,8 +1,16 @@
-<h1 align="center">Aplicação proffy versão mobile</h1>
+<h1>Proffy mobile version application</h1>
 
-<p align="left">
+<p>
   Aplicação Proffy versão mobile desenvolvida durante a seamana next level week 2
 </p>
+
+## Getting Started
+
+install dependencies: <b>npm run install</b> 
+
+start project: <b>npm run start</b>
+
+## Built With
 
 <p align="left">
     <ul>
@@ -11,7 +19,8 @@
     </ul>
 </p>
 
-<p align="left">
-    Clonar projeto: git clone https://github.com/PedroHenrique-git/AplicacaoProffyMobile.git
-</p>
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
